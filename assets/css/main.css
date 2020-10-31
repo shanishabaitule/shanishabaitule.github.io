@@ -2603,6 +2603,11 @@
 			display: block;
 		}
 
+                .image imgp {
+			border-radius: 50%;
+			display: block;
+		}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
