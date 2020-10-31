@@ -1691,10 +1691,12 @@
 	}
 
 	em, i {
+		color: #fdfdfd;
 		font-style: italic;
 	}
 
 	p {
+		color: #fdfdfd;
 		margin: 0 0 2em 0;
 	}
 
