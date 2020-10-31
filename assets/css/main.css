@@ -2603,7 +2603,7 @@
 			display: block;
 		}
 
-                img.profile {
+                .profile img{
 			float:right;
                         border-radius: 50%;
                         padding:25px;
