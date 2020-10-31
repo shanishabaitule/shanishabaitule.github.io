@@ -2603,9 +2603,8 @@
 			display: block;
 		}
 
-                .profile img {
+                img.profile {
 			float:right;
-                        display: block;
                         border radius: 100px;
                         padding:20px;
                        
