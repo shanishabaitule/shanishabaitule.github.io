@@ -2603,19 +2603,7 @@
 			display: block;
 		}
 
-                .profile {
-			float:right;
-                        border-radius: 50%;
-                        padding:25px;
-			width: "200";
-			height: "200";
-		
-		}
-
-                .profile img{
-			width:auto;
-			height: "100%";
-
+            
 		.image.left, .image.right {
 			max-width: 40%;
 		}
