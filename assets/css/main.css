@@ -2605,7 +2605,7 @@
 
                 img.profile {
 			float:right;
-                        border radius: 100px;
+                        border radius: 50%;
                         padding:20px;
                        
 		}
